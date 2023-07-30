@@ -1,5 +1,5 @@
 # Website-Blocker-App
-App that takes websites as input and either blocks or unblocks access to them (For Mac)
+App that takes websites as input and either blocks or unblocks browser access to them (For Mac)
 
 Uses the Kivy GUI library which has cross-platform support
 
